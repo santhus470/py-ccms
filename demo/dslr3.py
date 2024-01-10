@@ -15,4 +15,5 @@ p = subprocess.Popen(full_command, stdout=subprocess.PIPE, universal_newlines=Tr
 (output, err) = p.communicate()
 print(output)
 print(err)
+print(err)
 
