@@ -1,0 +1,5 @@
+
+pyinstaller -w --onefile --icon=logo.ico main.py
+
+create exe in admin mode
+ pyinstaller -w --uac-admin --icon=logo.ico main.py

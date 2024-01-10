@@ -1,0 +1,58 @@
+gehan
+  1. DSC_registration
+		https://youtu.be/c_8u7gbel0Q
+	do it with Firefox browser
+
+  2. Browser settings
+		https://youtu.be/JidEJ5Lx3RY  
+	do it with Firefox browser
+
+Marriage Love
+	https://youtu.be/lNZQSZSqhOs
+Marriage Arranged	
+	https://youtu.be/qZbyW4ygd04
+
+Certified Copy
+	https://youtu.be/LbDANtJ-LGk
+
+Encumbrance Certificate 
+	https://youtu.be/XaljpCdZK6g
+
+Fairvalue 
+	https://youtu.be/B6ItrXwqjD0
+
+https://web.whatsapp.com/send/?phone=919995062934&text=&type=phone_number&app_absent=0
+
+
+  pyinstaller -w --onefile --icon=logo.ico main.py
+
+   pyinstaller -w --uac-admin --icon=logo.ico ccms.py
+
+https://registration.kerala.gov.in/
+Kerala Registration Department
+
+altgraph==0.17.2
+deprecation==2.1.0
+et-xmlfile==1.1.0
+future==0.18.2
+img2pdf==0.4.4
+imutils==0.5.4
+lxml==4.9.1
+numpy==1.23.3
+opencv-python==4.6.0.66
+openpyxl==3.0.10
+packaging==21.3
+pefile==2022.5.30
+pikepdf==6.0.2
+Pillow==9.2.0
+plumbum==1.7.2
+pyinstaller==5.4.1
+pyinstaller-hooks-contrib==2022.10
+pyparsing==3.0.9
+PyPDF2==2.10.9
+PySimpleGUI==4.60.3
+pywin32==304
+pywin32-ctypes==0.2.0
+typing_extensions==4.3.0
+winapps==0.2.0
+openpyxl
